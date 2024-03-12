@@ -1,2 +1,3 @@
 # apnacollege
-this is mmy repository
+this is my repository
+Author- Nikhil Pandey
